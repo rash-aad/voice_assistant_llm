@@ -1,24 +1,32 @@
-Restaurant Name: Bangalore Kitchen
+Bangalore Kitchen Menu (Text Format)
 Location: Whitefield, Bangalore
 
-Indian Menu:
-
+🇮🇳 Indian Menu
 Plain Dosa - Rupees. 30
-Akki Roti - Rupees. 60
+
 Idli - Rupees. 20
-Aloo Paratha - Rupees. 40
+
 Poha - Rupees. 30
 
+Aloo Paratha - Rupees. 40
 
-English Menu:
+Akki Roti - Rupees. 60
 
-Pancake - Rupees. 70
-sandwitch - Rupees. 50
-oatmeal with honey - Rupees. 50
+NEW! Masala Dosa - Rupees. 50
+
+🇬🇧 English Menu
+Sandwich - Rupees. 50
+
+Oatmeal with Honey - Rupees. 50
+
 Waffles - Rupees. 50
 
+Pancake - Rupees. 70
 
-Beverages:
+🥤 Beverages
+Pepsi - Rupees. 40
 
-pepsi - Rupees. 40
-coke - Rupees. 40
+Coke - Rupees. 40
+
+NEW! Hot Tea - Rupees. 20
+
