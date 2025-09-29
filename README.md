@@ -47,9 +47,7 @@ Before running the code, ensure you have the following dependencies installed:
 - Ensure that your system's microphone is correctly configured and accessible by the script.
 - Make sure to handle exceptions and errors gracefully, especially during audio recording and transcription processes.
 
-## License
-- This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - The AI model used in this project is based on faster_whisper.
+
 - Special thanks to the developers of pyaudio, numpy, and scipy for their contributions.
