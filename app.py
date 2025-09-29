@@ -56,7 +56,7 @@ def transcribe_audio(model, file_path):
 def main():
     
     model_size = DEFAULT_MODEL_SIZE + ".en"
-    model = WhisperModel(model_size, device="cuda", compute_type="float16", num_workers=10)
+    model = WhisperModel(model_size, device="cpu", compute_type="int8", num_workers=10)
     
     audio = pyaudio.PyAudio()
     stream = audio.open(format=pyaudio.paInt16, channels=1, rate=16000, input=True, frames_per_buffer=1024)
